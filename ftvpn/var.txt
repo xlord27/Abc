@@ -1,0 +1,3 @@
+BOT_TOKEN="6291068412:AAGrW9atoS0f-ySEdJ9C36gHBT_bxIloeRI" # get this value from @BotFather, required
+ADMIN="1356873527" # your telegram ID, required
+DOMAIN="DOMAIN.SEX" # your VPS domain, required 
